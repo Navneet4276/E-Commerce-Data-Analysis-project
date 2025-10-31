@@ -43,7 +43,7 @@ The Power BI dashboard provides a comprehensive view of:
 ---
 
 ##  Key Achievements
-- Analyzed **5,000+ E-commerce transactions** for actionable insights.  
+- Analyzed **500k+ E-commerce transactions** for actionable insights.  
 - Identified **high-revenue products** and **customer segments** contributing to sales concentration.  
 - Developed a **Power BI dashboard** for real-time business monitoring.  
 - Highlighted **revenue concentration risks** and **improved decision visibility**.
